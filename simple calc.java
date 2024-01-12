@@ -1,11 +1,11 @@
 import java.util.*; 
-class hello{
+class calc{
     public static void main(String args[]){
-        Scanner sc= new Scanner(System.in);    //System.in is a standard input stream  
+        Scanner S1= new Scanner(System.in);    //System.in is a standard input stream  
     System.out.print("Enter first number- ");  
-    int a= sc.nextInt();  
+    int a= S1.nextInt();  
     System.out.print("Enter second number- ");  
-    int b= sc.nextInt();  
+    int b= S1.nextInt();  
 
     
         
